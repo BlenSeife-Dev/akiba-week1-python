@@ -1,3 +1,4 @@
+#collecting the user info first hehe 
 full_name = input("Enter full name: ")
 student_id = input("Enter student ID: ")
 age = int(input("Enter age: "))  
