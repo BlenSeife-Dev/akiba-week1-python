@@ -1,7 +1,7 @@
 name = input("Name: ")
 weight = float(input("Weight in kilograms: "))
 height = float(input("Height in meters: "))
-
+#writing the equation for calculating BMI
 bmi = weight / (height ** 2)
 
 print("\n================================")
