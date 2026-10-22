@@ -1,4 +1,4 @@
-exchange_rate = 150.0  # 1 USD = 150 ETB
+exchange_rate = 150.0  # considering 1 USD = 150 ETB
 
 usd_amount = float(input("USD Amount: "))
 
