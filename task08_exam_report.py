@@ -1,3 +1,4 @@
+#collect student information and scores
 student_name = input("Enter student name: ")
 python_score = float(input("Enter Python score: "))
 english_score = float(input("Enter English score: "))
